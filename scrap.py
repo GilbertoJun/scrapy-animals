@@ -8,6 +8,8 @@ import json
 
 
 url = "https://www.procure1amigo.com.br/"
+emailUsuario = "email"
+senhaUsuario = "senha"
 
 option = Options()
 option.headless = False
